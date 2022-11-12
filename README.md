@@ -2,7 +2,7 @@
 
 ### the Design isn't mine, i just worked on JS.
 
-__this is page dealing with map. to deal with map we uses the 'LeafLet' Hosted version code__ .
+__this page is dealing with map. To deal with map i used the 'LeafLet' Hosted version code__ .
 
 *LeafLet is an open-source JavaScript library for mobile-friendly interactive maps.*
 
